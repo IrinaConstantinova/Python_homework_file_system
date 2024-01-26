@@ -40,7 +40,7 @@ def start_menu():
         elif command == 3:
             change_row()
         elif command == 4:
-            copy_row
+            copy_row()
         elif command == 5:
             print_file()
     print("Спасибо, что воспользовались нашими услугами!\n"
